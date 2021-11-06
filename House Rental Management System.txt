@@ -1,0 +1,10 @@
+We run this project using NetBeans IDE 8.2 and we are using Mysql database for this project.
+In this project our target customers are Landlords.Multiple landlord can register using email
+and password.Landlord can add new tenants and apartments.He/she can see tenants and apartment 
+list as well as can search,edit and delete tenant and apartment information.Payment of each 
+tenants is maintained through the database every month.Landlord can view payment details 
+with due pay and utility bill along with others bill using Due pay and payment list feature.
+Landlord can store the deatails of Maintainance cost of apartment.Details about vacccant 
+apartment has maintained separately.
+
+
